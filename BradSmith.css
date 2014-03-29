@@ -1,4 +1,12 @@
 @CHARSET "ISO-8859-1";
-div{
-	color:navy;
+body
+{
+background-image:url("http://www.clipartbest.com/cliparts/yik/k7b/yikk7b6iE.png");
+background-repeat:no-repeat;
+background-attachment:fixed;
+
+
+
+text{
+	color:black;
 }
