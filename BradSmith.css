@@ -4,9 +4,10 @@ body
 background-image:url("http://www.clipartbest.com/cliparts/yik/k7b/yikk7b6iE.png");
 background-repeat:no-repeat;
 background-attachment:fixed;
+}
 
 
-
-text{
-	color:black;
+H1{
+	font-family: Arial, Helvetica, sans-serif;
+	color:orange;
 }
