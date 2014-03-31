@@ -1,13 +1,20 @@
 @CHARSET "ISO-8859-1";
 body
 {
-background-image:url("http://www.clipartbest.com/cliparts/yik/k7b/yikk7b6iE.png");
-background-repeat:no-repeat;
-background-attachment:fixed;
-}
+	background-image:url("http://www.clipartbest.com/cliparts/yik/k7b/yikk7b6iE.png");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	font-size:100%;
+	}
 
 
 H1{
-	font-family: Arial, Helvetica, sans-serif;
-	color:orange;
+	font-family: verdana,helvetica,arial,sans-serif;
+	color:navy;
+	font-size:2.0em;
+}
+p{
+	color: orange;
+	background-color:rgba(192,192,192,0.8);
+	font-size:.8em;
 }
